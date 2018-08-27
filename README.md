@@ -5,6 +5,8 @@ Some scripts help for Coding.Author info generator,etc.
 
 * shellscript_help_gen.sh - generate shell script help info part code
 
+* git_push.sh - push code. $1 is commit context
+
 ### Linux
 Some scripts use for system.System checker,etc.
 
