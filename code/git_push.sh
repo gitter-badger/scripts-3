@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git add .
+git add *
 if [ ! -n "$1" ] ;then
     git commit -m "update"
 else
