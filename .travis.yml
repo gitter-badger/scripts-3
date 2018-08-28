@@ -1,9 +1,4 @@
 language: bash
 
-sudo: enabled
-
-before-script: 
-	- apt-get install python
-
 script: 
 	- bash script_test.sh
