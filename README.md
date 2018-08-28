@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/omretterry/scripts.svg?branch=master)](https://travis-ci.org/omretterry/scripts)
 
-* script_test.sh - use for travis CI pipeline
+* script_test.py - use for travis CI pipeline
 
 ### Code 
 Some scripts help for Coding.Author info generator,etc.
