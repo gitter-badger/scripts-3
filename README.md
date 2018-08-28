@@ -1,5 +1,7 @@
 # scripts
 
+[![Build Status](https://travis-ci.org/omretterry/scripts.svg?branch=master)](https://travis-ci.org/omretterry/scripts)
+
 ### Code 
 Some scripts help for Coding.Author info generator,etc.
 
